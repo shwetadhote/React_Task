@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin: 18%;
+    background-color: rgb(155, 122, 148);
+}
+button{
+    padding: 9px 22px;
+    font-size: 16px;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    border: 2px solid black;
+    cursor: pointer;
+}
+button:hover{
+    color: rgb(3, 3, 3);
+    background-color: white;
+}
