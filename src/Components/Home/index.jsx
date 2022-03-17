@@ -19,7 +19,7 @@ const Home = (props) => {
         </>
     )
 }
-/*const HandleClick = () => {
+const HandleClick = () => {
     console.log("Clicked")
 }
 
@@ -38,7 +38,7 @@ const Home = () => {
       </form>
     </>
   )
-};*/
+};
 
 
 
